@@ -58,30 +58,30 @@ ajustar los nombres de los archivos a (`portafolio.js`) y (`portafolio.css`) res
 
 ### HOME/INICIO
 
-![HOME/INICIO](img/captura1.png)
+![HOME/INICIO](images/captura1.png)
 
 ### ABOUT/SOBRE MI
 
-![ABOUT/ SOBRE MI](img/captura2.png)
+![ABOUT/ SOBRE MI](images/captura2.png)
 
 ### SKILLS/HABILIDADES
 
-![SKILLS](img/captura3.png)
-![HABILIDADES](img/captura4.png)
+![SKILLS](images/captura3.png)
+![HABILIDADES](images/captura4.png)
 
 ### SERVICES/SERVICIOS
 
-![SERVICES](img/captura5.png)
-![SERVICIOS](img/captura6.png)
+![SERVICES](images/captura5.png)
+![SERVICIOS](images/captura6.png)
 
 ### PROJECTS/PROYECTOS
 
-![PROJECTS/PROYECTOS](img/captura7.png)
+![PROJECTS/PROYECTOS](images/captura7.png)
 
 ### CONTACT/CONTACTAME
 
-![CONTACT](img/captura8.png)
-![CONTACTAME](img/captura9.png)
+![CONTACT](images/captura8.png)
+![CONTACTAME](images/captura9.png)
 
 ---
 
